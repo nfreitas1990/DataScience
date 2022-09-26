@@ -3,9 +3,10 @@ Portfólio de Análise de Dados em R.
 <br></br>
 # Listas de Projetos (**em construção)
 
-## Projeto Heart Attack - Análises Utilizadas
+## Projeto Heart Attack 
 :book:[Relatório](https://github.com/nfreitas1990/Projeto_HeartAttack/tree/main/docs)
 ⚙️[Script](https://github.com/nfreitas1990/Projeto_HeartAttack/tree/main/R)
+##### Análises Utilizadas
 - Análise de Regressão Logística Simples e Múltipla
 - Análise Descritiva 
 - Teste de Weltch para comparação de médias
