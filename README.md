@@ -1,7 +1,7 @@
 # :atom: DataScience
-Portfólio de Análise de Dados em R.
+Portfólio de Análise de Dados em R. (**em construção)
 <br></br>
-# Listas de Projetos (**em construção)
+ 
 
 ## Projeto Heart Attack 
 :book:[Relatório](https://github.com/nfreitas1990/Projeto_HeartAttack/tree/main/docs)
