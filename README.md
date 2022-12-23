@@ -4,7 +4,7 @@ Portfólio de Análise de Dados em R. (**em construção)
  
 
 ## Projeto Heart Attack 
-:book:[Relatório](https://github.com/nfreitas1990/Projeto_HeartAttack/tree/main/docs)
+:book:[Relatório](https://github.com/nfreitas1990/Projeto_HeartAttack/blob/main/docs/Projeto_HeartAttack.pdf)
 ⚙️[Script](https://github.com/nfreitas1990/Projeto_HeartAttack/tree/main/R)
 ##### Análises Utilizadas
 - Análise de Regressão Logística Simples e Múltipla
