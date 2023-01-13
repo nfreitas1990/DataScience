@@ -12,7 +12,7 @@ Portfólio de Análise de Dados em R. (**em construção)
 - Teste de Comparação de Médias
 - Teste de Correlação
 <a href="https://github.com/nfreitas1990/Projeto_HeartAttack">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=nfreitas1990&repo=Projeto_HeartAttack&theme=dark" />
+  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nfreitas1990&repo=Projeto_HeartAttack&theme=dark" />
 </a>
 
 
