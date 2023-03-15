@@ -16,7 +16,8 @@ Portfólio de Análise de Dados em R. (**em construção)
 </a>
 
 
-## Machine Learning: Avaliação dos efeitos climáticos na distribuição de bioindicadores de qualidade de água
+## Machine Learning: Efeitos da Mudança Climática
+##### Objetivo: Avaliação dos efeitos climáticos na distribuição de bioindicadores de qualidade de água
 :book:[Tese Doutorado](https://github.com/nfreitas1990/TeseDoutorado)
 </br>
 ##### Análises Utilizadas
