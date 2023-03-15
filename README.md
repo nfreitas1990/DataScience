@@ -27,6 +27,9 @@ Portfólio de Análise de Dados em R. (**em construção)
 - Maximum Entropy (MAXENT)
 -Random Forest (RF)
 					 
-Resultado das Análises: Identificação do Potencial de ocorrência de cada espécie bioindicadora com base em variáveis climáticas ambientais. E projeção de mudança na distribuição (expansão ou retração) dos bioindicadores de acordo com os cenários de mudança climática projetado pelo IPCC.  
-![image](https://user-images.githubusercontent.com/28782509/212334874-aff65583-0bb7-4731-99eb-fb62402e9364.png)
+Resultado das Análises: Identificação do Potencial de ocorrência de cada espécie bioindicadora com base em variáveis climáticas ambientais. E projeção de mudança na distribuição (expansão ou retração) dos bioindicadores de acordo com os cenários de mudança climática projetado pelo IPCC.
+
+<a href="https://github.com/nfreitas1990/TeseDoutorado">
+  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nfreitas1990&repo=TeseDoutorado&theme=dark" />
+</a>
 
