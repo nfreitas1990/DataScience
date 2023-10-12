@@ -37,4 +37,5 @@ Resultado das Análises: Identificação do Potencial de ocorrência de cada esp
 
 ## Séries Temporais: Projeto Rompimento da Barragem de Brumadinho
 ##### Objetivo: Avaliar o impacto temporal decorrente do rompimento da barragem de Fundão (Minas Gerais, Brasil) na qualidade da água da bacia do rio Doce.
-:book:[Relatório em construção]
+:book:[Relatório](https://github.com/nfreitas1990/Projeto_AvaliacaoTemporal/blob/main/docs/2023-10-02_TCC_NataliaFreitasdeSouza.pdf)
+⚙️[Script]()
