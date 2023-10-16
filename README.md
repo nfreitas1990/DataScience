@@ -38,4 +38,12 @@ Resultado das Análises: Identificação do Potencial de ocorrência de cada esp
 ## Séries Temporais: Projeto Rompimento da Barragem de Brumadinho
 ##### Objetivo: Avaliar o impacto temporal decorrente do rompimento da barragem de Fundão (Minas Gerais, Brasil) na qualidade da água da bacia do rio Doce.
 :book:[Relatório](https://github.com/nfreitas1990/Projeto_AvaliacaoTemporal/blob/main/docs/2023-10-02_TCC_NataliaFreitasdeSouza.pdf)
-⚙️[Script]()
+⚙️[Script](https://github.com/nfreitas1990/Projeto_AvaliacaoTemporal/tree/main/scripts)  
+
+##### Análises Utilizadas
+Análises de Séries Temporais:
+- Regressão ITS (Séries Temporais Interrompidas)
+- Método de decomposição “Seasonal Trend Loess” [STL]
+- Autocorrelação ACF/PACF
+- Teste Ljung-Box
+- Arima (em andamento)
