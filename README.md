@@ -47,3 +47,6 @@ Análises de Séries Temporais:
 - Autocorrelação ACF/PACF
 - Teste Ljung-Box
 - Arima (em andamento)
+
+  ## Banco de Dados: em andamento
+  
